@@ -1,0 +1,5 @@
+documentId,ticket,property,description,id,categories,created_date,priority,refCode,status
+MAINT-9165,"No hot water coming out of the kitchen taps","Rennie House","","MAINT-9165","Plumbing",2024-05-06T04:30:04.958Z,"Medium","#CM5864","Created"
+MAINT-1207,"Lights in my room are not working","Rennie House","","MAINT-1207","Electrical",2024-05-06T04:27:03.052Z,"High","#CM2087","Resolved"
+MAINT-4007,"Study desk is broken","Fountain Rez","","MAINT-4007","Electrical",2024-05-05T18:13:12.847Z,"Low","#CM2362","Pending"
+MAINT-7973,"Cracked shower glass","Fountain Rez","My shower door is cracked. We cannot take a shower","MAINT-7973","Furniture",2024-05-05T17:28:19.120Z,"High","#CM6756","Pending"
